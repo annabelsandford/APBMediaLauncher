@@ -45,6 +45,7 @@ namespace APBML2
         {
             InitializeComponent();
             checkInternetConnection();
+            checkForAPB();
             checkInstallation();
             if (firstRun == true)
             {
@@ -74,6 +75,16 @@ namespace APBML2
             FirstRunWindow panel = new FirstRunWindow();
             panel.Show();
             this.Hide();
+        }
+
+        private void checkForAPB() {
+            // check if APB.exe is running, if yes give error
+            Process[] pname = Process.GetProcessesByName("APB");
+            if (pname.Length > 0)
+            {
+                MessageBox.Show("APB.exe is running, please close it before using APBML.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Environment.Exit(0);
+            }
         }
 
         private void checkInternetConnection() {
