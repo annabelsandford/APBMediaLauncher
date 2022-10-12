@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MusicPlayer Version="1">
   <Library>
+    <Track Default="true" Name="Crab Rave" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="192.0" Removed="false">crab.mp3</Track>
+    <Track Default="true" Name="Megalovania" Artist="Smash Mouth" Album="-" Genre="Electronica/Dance" Duration="206.0" Removed="false">megalo.mp3</Track>
+    <Track Default="true" Name="Chi Jen Hang Chi" Artist="China" Album="-" Genre="Electronica/Dance" Duration="29.0" Removed="false">chinesefish.mp3</Track>
+    <Track Default="true" Name="Wii" Artist="Michael Jackson" Album="-" Genre="Electronica/Dance" Duration="35.0" Removed="false">wiimichael.mp3</Track>
+    <Track Default="true" Name="cbat" Artist="Cringe" Album="-" Genre="Electronica/Dance" Duration="171.0" Removed="false">cbat.mp3</Track>
+    <Track Default="true" Name="DA DA DA DAA" Artist="John Cena" Album="-" Genre="Electronica/Dance" Duration="177.0" Removed="false">johncena.mp3</Track>
+    <Track Default="true" Name="Pua Pua Pi Pi" Artist="Best of communism" Album="-" Genre="Electronica/Dance" Duration="35.0" Removed="false">pua.mp3</Track>
+    <Track Default="true" Name="Tryna Fuck" Artist="Bruh" Album="-" Genre="Electronica/Dance" Duration="52.0" Removed="false">letmein.mp3</Track>
+    <Track Default="true" Name="Its My Life" Artist="Russian Federation" Album="-" Genre="Electronica/Dance" Duration="145.0" Removed="false">mylife.mp3</Track>
+    <Track Default="true" Name="Putin" Artist="Russian Federation" Album="-" Genre="Electronica/Dance" Duration="162.0" Removed="false">putin.mp3</Track>
+    <Track Default="true" Name="Killing My Love" Artist="Initial D" Album="-" Genre="Electronica/Dance" Duration="295.0" Removed="false">mylove.mp3</Track>
+    <Track Default="true" Name="Crazy Frog" Artist="Crazy Frog" Album="-" Genre="Electronica/Dance" Duration="141.0" Removed="false">crazyfrog.mp3</Track>
+    <Track Default="true" Name="Gimme More" Artist="Britney Spears" Album="-" Genre="Electronica/Dance" Duration="218.0" Removed="false">gimmemore.mp3</Track>
+    <Track Default="true" Name="Riders On The Storm" Artist="Snoop Dogg" Album="-" Genre="Electronica/Dance" Duration="372.0" Removed="false">riders.mp3</Track>
+    <Track Default="true" Name="Cow" Artist="Republic of Poland" Album="-" Genre="Electronica/Dance" Duration="185.0" Removed="false">cow.mp3</Track>
+    <Track Default="true" Name="7th Element" Artist="Vitas" Album="-" Genre="Electronica/Dance" Duration="204.0" Removed="false">vitas.mp3</Track>
+    <Track Default="true" Name="Kazakh Anthem" Artist="Borat" Album="-" Genre="Electronica/Dance" Duration="110.0" Removed="false">kazakh.mp3</Track>
+    <Track Default="true" Name="Gas Gas Gas" Artist="Manuel" Album="-" Genre="Electronica/Dance" Duration="271.0" Removed="false">gasgasgas.mp3</Track>
+    <Track Default="true" Name="Bing Bang Bing" Artist="Korky Buchek" Album="-" Genre="Electronica/Dance" Duration="119.0" Removed="false">bing.mp3</Track>
+    <Track Default="true" Name="Ja Ja" Artist="DingDong" Album="-" Genre="Electronica/Dance" Duration="98.0" Removed="false">jaja.mp3</Track>
     <Track Default="true" Name="Messages from the stars" Artist="A-Train" Album="-" Genre="Electronica/Dance" Duration="336.0" Removed="false">atrain.mp3</Track>
     <Track Default="true" Name="Gypsy in my mind" Artist="Crystal Waters" Album="-" Genre="Metal/Alternative" Duration="283.0" Removed="false">gypsy.mp3</Track>
     <Track Default="true" Name="Vaping in the hood" Artist="MACINTOSH PLUS" Album="-" Genre="Drum &amp; Bass/Breaks" Duration="199.0" Removed="false">vaping.mp3</Track>
