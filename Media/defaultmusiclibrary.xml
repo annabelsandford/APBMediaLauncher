@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MusicPlayer Version="1">
   <Library>
+    <Track Default="true" Name="49 Percent" Artist="Miki Asakura" Album="-" Genre="Electronica/Dance" Duration="318.0" Removed="false">japan.mp3</Track>
+    <Track Default="true" Name="Russian Good Song" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="219.0" Removed="false">goodrussian.mp3</Track>
+    <Track Default="true" Name="Close Eyes (Extended)" Artist="DVRST" Album="-" Genre="Electronica/Dance" Duration="222.0" Removed="false">dvrst.mp3</Track>
+    <Track Default="true" Name="Chinese Rap" Artist="PRC" Album="-" Genre="Electronica/Dance" Duration="99.0" Removed="false">chinarap.mp3</Track>
     <Track Default="true" Name="Crab Rave" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="192.0" Removed="false">crab.mp3</Track>
     <Track Default="true" Name="Megalovania" Artist="Smash Mouth" Album="-" Genre="Electronica/Dance" Duration="206.0" Removed="false">megalo.mp3</Track>
     <Track Default="true" Name="Chi Jen Hang Chi" Artist="China" Album="-" Genre="Electronica/Dance" Duration="29.0" Removed="false">chinesefish.mp3</Track>
