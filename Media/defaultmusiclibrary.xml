@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MusicPlayer Version="1">
   <Library>
+    <Track Default="true" Name="Out of Touch" Artist="Hall and Oates" Album="-" Genre="Electronica/Dance" Duration="242.0" Removed="false">touch.mp3</Track>
+    <Track Default="true" Name="Night Drive" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="124.0" Removed="false">nightdrive.mp3</Track>
+    <Track Default="true" Name="Self Control" Artist="Laura Branigan" Album="-" Genre="Electronica/Dance" Duration="302.0" Removed="false">laura.mp3</Track>
+    <Track Default="true" Name="Gangnam Style" Artist="PSY" Album="-" Genre="Electronica/Dance" Duration="181.0" Removed="false">korea.mp3</Track>
+    <Track Default="true" Name="Hey Ya" Artist="Outkast" Album="-" Genre="Electronica/Dance" Duration="196.0" Removed="false">duck.mp3</Track>
+    <Track Default="true" Name="Deja Vu" Artist="Deja Vu" Album="-" Genre="Electronica/Dance" Duration="262.0" Removed="false">dejavu.mp3</Track>
+    <Track Default="true" Name="Caramelldansen" Artist="Caramella Girls" Album="-" Genre="Electronica/Dance" Duration="175.0" Removed="false">caramell.mp3</Track>
+    <Track Default="true" Name="VC Taxi" Artist="Spanish Cab Driver" Album="Taxi yeehaw" Genre="Electronica/Dance" Duration="265.0" Removed="false">cab.mp3</Track>
+    <Track Default="true" Name="Barbie Girl" Artist="Aqua" Album="-" Genre="Electronica/Dance" Duration="161.0" Removed="false">barbie.mp3</Track>
+    <Track Default="true" Name="Loud Arabic Music" Artist="WHAT" Album="I CANT HEAR U" Genre="Electronica/Dance" Duration="273.0" Removed="false">arab.mp3</Track>
     <Track Default="true" Name="49 Percent" Artist="Miki Asakura" Album="-" Genre="Electronica/Dance" Duration="318.0" Removed="false">japan.mp3</Track>
     <Track Default="true" Name="Russian Good Song" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="219.0" Removed="false">goodrussian.mp3</Track>
     <Track Default="true" Name="Close Eyes (Extended)" Artist="DVRST" Album="-" Genre="Electronica/Dance" Duration="222.0" Removed="false">dvrst.mp3</Track>
@@ -271,3 +281,4 @@
     <GeneralSettings ShowEULA="true" PermaDeleteOnRemove="false" DisplayPlayerHud="true" />
   </Config>
 </MusicPlayer>
+
