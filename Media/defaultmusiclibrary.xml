@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MusicPlayer Version="1">
   <Library>
+    <Track Default="true" Name="Vasko Zabata" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="305.0" Removed="false">serbia4.mp3</Track>
+    <Track Default="true" Name="Serbia Strong" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="218.0" Removed="false">serbia3.mp3</Track>
+    <Track Default="true" Name="Mudzahedin" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="256.0" Removed="false">serbia2.mp3</Track>
+    <Track Default="true" Name="Oj Alija Aljo" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="181.0" Removed="false">serbia.mp3</Track>
+    <Track Default="true" Name="Arab Nokia" Artist="Arab" Album="Idk" Genre="Electronica/Dance" Duration="23.0" Removed="false">nokiaarab.mp3</Track>
+    <Track Default="true" Name="Bosanka Artiljerija" Artist="Bosnia" Album="Bosnia" Genre="Electronica/Dance" Duration="216.0" Removed="false">bosnia.mp3</Track>
+    <Track Default="true" Name="Breaking Bad" Artist="Breaking Bad" Album="breaking bad" Genre="Electronica/Dance" Duration="148.0" Removed="false">badbreaking.mp3</Track>
+    <Track Default="true" Name="Arabic Low Quality" Artist="Egypt" Album="Best of Arab" Genre="Electronica/Dance" Duration="195.0" Removed="false">arab2.mp3</Track>
     <Track Default="true" Name="Out of Touch" Artist="Hall and Oates" Album="-" Genre="Electronica/Dance" Duration="242.0" Removed="false">touch.mp3</Track>
     <Track Default="true" Name="Night Drive" Artist="Idk" Album="-" Genre="Electronica/Dance" Duration="124.0" Removed="false">nightdrive.mp3</Track>
     <Track Default="true" Name="Self Control" Artist="Laura Branigan" Album="-" Genre="Electronica/Dance" Duration="302.0" Removed="false">laura.mp3</Track>
@@ -281,4 +289,5 @@
     <GeneralSettings ShowEULA="true" PermaDeleteOnRemove="false" DisplayPlayerHud="true" />
   </Config>
 </MusicPlayer>
+
 
