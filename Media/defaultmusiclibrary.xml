@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MusicPlayer Version="1">
   <Library>
+    <Track Default="true" Name="POL_1" Artist="POL_1" Album="POL_1" Genre="Electronica/Dance" Duration="33.0" Removed="false">pol1.mp3</Track>
+    <Track Default="true" Name="Jadna Bosno" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="187.0" Removed="false">jadnabosno.mp3</Track>
+    <Track Default="true" Name="Home Depot" Artist="Home Depot" Album="Home Depot" Genre="Electronica/Dance" Duration="31.0" Removed="false">homedepot.mp3</Track>
+    <Track Default="true" Name="Cab GTA 5" Artist="Cab GTA 5" Album="Its a taxi idk man" Genre="Electronica/Dance" Duration="200.0" Removed="false">gta5cab.mp3</Track>
+    <Track Default="true" Name="Goofy Ahh Sounds" Artist="Idk" Album="Idk" Genre="Electronica/Dance" Duration="32.0" Removed="false">goofyshit.mp3</Track>
+    <Track Default="true" Name="Fortnite" Artist="Fortnite" Album="Fortnite" Genre="Electronica/Dance" Duration="7.0" Removed="false">fortinite.mp3</Track>
+    <Track Default="true" Name="Crni Bombarder" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="186.0" Removed="false">crni.mp3</Track>
+    <Track Default="true" Name="Babaj" Artist="Babaj" Album="Fortninite i le baba j" Genre="Electronica/Dance" Duration="31.0" Removed="false">babaj.mp3</Track>
     <Track Default="true" Name="Vasko Zabata" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="305.0" Removed="false">serbia4.mp3</Track>
     <Track Default="true" Name="Serbia Strong" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="218.0" Removed="false">serbia3.mp3</Track>
     <Track Default="true" Name="Mudzahedin" Artist="Serbia" Album="War" Genre="Electronica/Dance" Duration="256.0" Removed="false">serbia2.mp3</Track>
@@ -289,5 +297,6 @@
     <GeneralSettings ShowEULA="true" PermaDeleteOnRemove="false" DisplayPlayerHud="true" />
   </Config>
 </MusicPlayer>
+
 
 
